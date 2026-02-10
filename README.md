@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">Aquaman from Data Ocean</h3>
 
-- 🌱 I’m currently learning **ML, AI**
-
-- 📝 I regularly write articles on [https://velog.io/@andreak94](https://velog.io/@andreak94)
-
-- 💬 Ask me about **python**
+- 🌱 I’m learning **ML, AI**
 
 - 📫 How to reach me **kg9884@naver.com**
 
-- ⚡ Fun fact **/ MBTI : INFJ or INTJ**
+- ⚡ MBTI : INFJ or INTJ**
 
 
 <h3 align="left">Languages and Tools:</h3>
